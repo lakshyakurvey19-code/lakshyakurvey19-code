@@ -79,11 +79,21 @@ Repository: `<!-- ADD REPO LINK -->` · Demo: `<!-- ADD DEMO LINK -->`
 
 ---
 
-## GitHub
+## GitHub Stats
 
-<!-- Replace YOUR_USERNAME below with your GitHub username. Remove this section if you'd rather not show stats. -->
+<!-- Replace YOUR_USERNAME with your GitHub username -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=radical&hide=prs,contribs&hide_rank=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=radical&langs_count=6" alt="Most Used Languages" />
+</p>
 
 ---
 
