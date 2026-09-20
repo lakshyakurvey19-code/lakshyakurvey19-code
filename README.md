@@ -7,13 +7,14 @@ I'm a B.Tech Information Technology student at SSIPMT Raipur, currently in my 3r
 - Learning DSA and building a stronger base in Python and C++
 - Exploring AI/ML, mostly through project-based learning right now
 - Working with ESP32 and sensors to build IoT projects
-- Picking up web development basics — HTML, CSS, and JavaScript
+- Picking up web development basics — HTML, CSS, JavaScript, and Node.js
 - Like understanding how things work end to end, from code to hardware
 
 ## Tech Stack
 
 **Languages**
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
@@ -22,6 +23,7 @@ I'm a B.Tech Information Technology student at SSIPMT Raipur, currently in my 3r
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 **Database**
 
