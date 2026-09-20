@@ -1,6 +1,6 @@
 # Hi, I'm Lakshya 👋
 
-I'm a B.Tech Information Technology student at SSIPMT Raipur, currently in my 3rd semester. I'm focused on strengthening my programming fundamentals, learning new technologies, and building small hardware and software projects along the way.
+I'm a B.Tech Information Technology student at SSIPMT Raipur, currently in my 3rd semester. I'm focused on improving my programming fundamentals, learning new technologies, and building projects that combine software with hardware.
 
 ## About Me
 
@@ -9,7 +9,7 @@ I'm a B.Tech Information Technology student at SSIPMT Raipur, currently in my 3r
 - 🤖 Exploring AI/ML through practical projects
 - 🔧 Building IoT projects using ESP32 and sensors
 - 🌐 Learning web development with HTML, CSS, JavaScript, and Node.js
-- 🛠️ I enjoy understanding how things work from code to hardware
+- 🛠️ Interested in understanding how things work from code to hardware
 
 ## Tech Stack
 
@@ -45,23 +45,23 @@ I'm a B.Tech Information Technology student at SSIPMT Raipur, currently in my 3r
 
 ### 🔤 Smart Sign Language Translator Glove
 
-An ESP32-based glove that converts hand gestures into text. It uses flex sensors and an MPU6050 to track finger and hand movements. The recognized output can be displayed on an OLED display and transmitted wirelessly using Bluetooth.
+An ESP32-based glove that converts hand gestures into text. It uses flex sensors and an MPU6050 to track finger and hand movements. The output can be displayed on an OLED display and transmitted wirelessly using Bluetooth.
 
-**Tech used:** ESP32 · Flex Sensors · MPU6050 · OLED · Bluetooth
+**Tech used:** ESP32 · Flex Sensors · MPU6050 · OLED Display · Bluetooth
 
-[View Repository](https://github.com/lakshyakurvey19-code)
+[View GitHub Profile](https://github.com/lakshyakurvey19-code)
 
 ---
 
 ### 🌱 Smart Farming Assistant
 
-An AI and IoT-based project focused on helping with crop disease detection, soil monitoring, irrigation needs, and agricultural risk monitoring.
+An AI and IoT-based project focused on crop disease detection, soil monitoring, irrigation needs, and agricultural risk monitoring.
 
 The project combines sensors and cameras for collecting field data with computer vision and machine learning for analysis.
 
 **Tech used:** ESP32-CAM · Raspberry Pi · Sensors · Computer Vision · Machine Learning
 
-[View Repository](https://github.com/lakshyakurvey19-code)
+[View GitHub Profile](https://github.com/lakshyakurvey19-code)
 
 ## Currently Learning
 
@@ -73,22 +73,25 @@ The project combines sensors and cameras for collecting field data with computer
 - Web Development
 - IoT and Embedded Systems
 
-## GitHub Stats
+## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+<p align="left">
+  <a href="https://github.com/lakshyakurvey19-code">
+    <img src="https://img.shields.io/badge/GitHub-lakshyakurvey19--code-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ## Connect With Me
 
-<p>
+<p align="left">
   <a href="https://github.com/lakshyakurvey19-code">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
   <a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:lakshyakurvey19@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
