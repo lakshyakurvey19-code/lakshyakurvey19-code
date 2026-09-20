@@ -1,77 +1,101 @@
 # Hi, I'm Lakshya 👋
 
-I'm a B.Tech Information Technology student at SSIPMT Raipur, currently in my 3rd semester. Most of my time goes into strengthening programming fundamentals and building small hardware + software projects on the side.
+I'm a B.Tech Information Technology student at SSIPMT Raipur, currently in my 3rd semester. I'm focused on strengthening my programming fundamentals, learning new technologies, and building small hardware and software projects along the way.
 
 ## About Me
 
-- Learning DSA and building a stronger base in Python and C++
-- Exploring AI/ML, mostly through project-based learning right now
-- Working with ESP32 and sensors to build IoT projects
-- Picking up web development basics — HTML, CSS, JavaScript, and Node.js
-- Like understanding how things work end to end, from code to hardware
+- 🎓 B.Tech Information Technology student
+- 💻 Learning DSA and improving my skills in Python and C++
+- 🤖 Exploring AI/ML through practical projects
+- 🔧 Building IoT projects using ESP32 and sensors
+- 🌐 Learning web development with HTML, CSS, JavaScript, and Node.js
+- 🛠️ I enjoy understanding how things work from code to hardware
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-**Web**
+### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**Database**
+### Database
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-**AI/ML & IoT**
+### AI/ML & IoT
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 
 ## Featured Projects
 
-### Smart Sign Language Translator Glove
-An ESP32-based glove that converts hand gestures into text. Uses flex sensors and an MPU6050 to track finger and hand movement, with an OLED display for output and Bluetooth for wireless communication.
+### 🔤 Smart Sign Language Translator Glove
 
-**Tech used:** ESP32, Flex Sensors, MPU6050, OLED Display, Bluetooth
+An ESP32-based glove that converts hand gestures into text. It uses flex sensors and an MPU6050 to track finger and hand movements. The recognized output can be displayed on an OLED display and transmitted wirelessly using Bluetooth.
 
-[Repository](#) <!-- replace with actual repo link -->
+**Tech used:** ESP32 · Flex Sensors · MPU6050 · OLED · Bluetooth
 
-### Smart Farming Assistant
-An AI/IoT-based project focused on crop disease detection, soil monitoring, irrigation needs, and agricultural risk monitoring. Combines ESP32-CAM and sensors for data collection with a Raspberry Pi running computer vision and machine learning models for analysis.
+[View Repository](https://github.com/lakshyakurvey19-code)
 
-**Tech used:** ESP32-CAM, Raspberry Pi, Sensors, Computer Vision, Machine Learning
+---
 
-[Repository](#) <!-- replace with actual repo link -->
+### 🌱 Smart Farming Assistant
+
+An AI and IoT-based project focused on helping with crop disease detection, soil monitoring, irrigation needs, and agricultural risk monitoring.
+
+The project combines sensors and cameras for collecting field data with computer vision and machine learning for analysis.
+
+**Tech used:** ESP32-CAM · Raspberry Pi · Sensors · Computer Vision · Machine Learning
+
+[View Repository](https://github.com/lakshyakurvey19-code)
 
 ## Currently Learning
 
 - Python
-- DBMS / SQL
+- C++
 - Data Structures and Algorithms
-- AI/ML basics
-- Web development
+- DBMS / SQL
+- AI/ML fundamentals
+- Web Development
+- IoT and Embedded Systems
 
 ## GitHub Stats
 
-![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+</p>
 
 ## Connect With Me
 
-- LinkedIn: [Lakshya Kurvey](https://linkedin.com/in/lakshya-kurvey-a845b137b)
-- Email: lakshyakurvey19@gmail.com
-- GitHub: [@lakshyakurvey19-code](https://github.com/lakshyakurvey19-code)
-- Portfolio: <!-- add your portfolio link here if you have one -->
+<p>
+  <a href="https://github.com/lakshyakurvey19-code">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lakshyakurvey19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
