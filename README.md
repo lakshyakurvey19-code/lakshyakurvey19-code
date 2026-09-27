@@ -4,86 +4,199 @@
 
 ### `B.Tech IT Student` · `Developer` · `Builder`
 
-Building things, learning technologies, and turning ideas into working projects.
+*Learning by building — from code to hardware.*
 
-<p>
-  <a href="https://github.com/lakshyakurvey19-code">
-    <img src="https://img.shields.io/badge/GitHub-lakshyakurvey19--code-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/lakshya-kurvey-a845b137b">
-    <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Kurvey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:lakshyakurvey19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/lakshyakurvey19-code">
+  <img src="https://img.shields.io/badge/GitHub-lakshyakurvey19--code-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
+  <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Kurvey-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:lakshyakurvey19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+                         ┌─────────────────────────┐
+                         │      LAKSHYA KURVEY      │
+                         │                         │
+                         │   B.Tech IT · 3rd Sem   │
+                         │       Developer         │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │        ABOUT ME          │
+                         │                         │
+                         │  Programming             │
+                         │  Web Development         │
+                         │  AI / ML                 │
+                         │  IoT & Embedded Systems  │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │       TECH STACK         │
+                         │                         │
+                         │ C · C++ · Python         │
+                         │ HTML · CSS · JavaScript  │
+                         │ Node.js · SQL             │
+                         │ Git · GitHub · VS Code   │
+                         │ ESP32 · Arduino           │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │      CURRENT FOCUS       │
+                         │                         │
+                         │  DSA → C++ → Python     │
+                         │  DBMS → Web Development  │
+                         │  AI/ML → IoT             │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                     ┌────────────────┴────────────────┐
+                     │                                 │
+                     ▼                                 ▼
+          ┌─────────────────────┐          ┌─────────────────────┐
+          │   SMART FARMING     │          │  SIGN LANGUAGE      │
+          │      ASSISTANT      │          │     TRANSLATOR      │
+          │                     │          │                     │
+          │ AI + IoT             │          │ ESP32 + Sensors     │
+          │ Crop Monitoring      │          │ Gesture Recognition │
+          └──────────┬──────────┘          └──────────┬──────────┘
+                     │                                 │
+                     └────────────────┬────────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │       GITHUB             │
+                         │                         │
+                         │ Projects · Experiments  │
+                         │ Code · Learning         │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │        CONNECT           │
+                         │                         │
+                         │ GitHub · LinkedIn       │
+                         │ Email                   │
+                         └─────────────────────────┘
+```
 
 </div>
 
 ---
 
-## About
+## `01` — About Me
 
-I'm **Lakshya Kurvey**, a B.Tech Information Technology student interested in software development, web technologies, and practical problem solving.
+I'm a **B.Tech Information Technology student at SSIPMT Raipur**, currently in my 3rd semester.
 
-I like learning by building projects rather than only following tutorials. Currently, I'm working on strengthening my programming fundamentals while exploring web development, databases, and real-world applications.
+I'm focused on strengthening my programming fundamentals, learning new technologies, and building small hardware and software projects along the way.
+
+I enjoy understanding how things work — from writing code and designing websites to connecting sensors and building IoT systems.
+
+---
+
+## `02` — What I'm Working With
+
+### Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+
+### Database
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+
+### IoT & Embedded
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square\&logo=espressif\&logoColor=white)
+
+---
+
+## `03` — Current Learning Path
 
 ```text
-Focus        →  Programming • Web Development • Problem Solving
-Learning     →  C++ • Python • JavaScript • DBMS • DSA
-Building     →  Practical & Real-world Projects
+Programming Fundamentals
+          │
+          ▼
+      C / C++
+          │
+          ▼
+      DSA + OOP
+          │
+          ├──────────────► Python
+          │
+          ▼
+        DBMS
+          │
+          ▼
+   Web Development
+          │
+          ▼
+    Practical Projects
+          │
+          ├──────────────► AI / ML
+          │
+          └──────────────► IoT / Embedded
 ```
 
 ---
 
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-</p>
-
-### Web & Tools
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-</p>
-
----
-
-## Featured Projects
+## `04` — Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-
-### 🌱 Smart Farming Assistant
-
-An AI-powered farming assistant designed to help identify crop diseases, pests, nutrient deficiencies and irrigation requirements.
-
-**Stack**
-
-`ESP32-CAM` `Python` `OpenCV` `TensorFlow Lite`
-
-</td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🖐️ Smart Sign Language Translator
 
-A wearable glove that uses flex sensors and motion sensing to recognize hand gestures and convert them into text.
+An ESP32-based wearable glove that recognizes hand gestures using flex sensors and an MPU6050.
 
-**Stack**
+The system processes finger and hand movement and can display the recognized output on an OLED while supporting wireless communication.
 
-`ESP32` `C++` `MPU6050` `OLED` `Bluetooth`
+**Tech used**
+
+`ESP32` · `C++` · `Flex Sensors` · `MPU6050` · `OLED` · `Bluetooth`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Smart Farming Assistant
+
+An AI and IoT-based project focused on crop disease detection, soil monitoring, irrigation requirements and agricultural risk monitoring.
+
+The system combines sensors and cameras with computer vision and machine learning for field data analysis.
+
+**Tech used**
+
+`ESP32-CAM` · `Raspberry Pi` · `Python` · `OpenCV` · `ML` · `Sensors`
 
 </td>
 </tr>
@@ -91,54 +204,68 @@ A wearable glove that uses flex sensors and motion sensing to recognize hand ges
 
 ---
 
-## What I'm Working On
+## `05` — Currently Learning
 
 ```text
-01  Improving C++ & Object-Oriented Programming
-02  Learning Data Structures & Algorithms
-03  Exploring Web Development
-04  Learning Database Management Systems
-05  Building practical projects
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  → Python                                          │
+│  → C++ & Object-Oriented Programming              │
+│  → Data Structures & Algorithms                    │
+│  → DBMS / SQL                                      │
+│  → AI / ML Fundamentals                            │
+│  → Web Development                                  │
+│  → IoT & Embedded Systems                          │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## GitHub Activity
+## `06` — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyakurvey19-code&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-## Contribution Graph
+## `07` — Find Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyakurvey19-code&hide_border=true">
+<a href="https://github.com/lakshyakurvey19-code">
+<img src="https://img.shields.io/badge/GitHub-lakshyakurvey19--code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
+<a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
+<img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Kurvey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <a href="mailto:lakshyakurvey19@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-lakshyakurvey19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/lakshya-kurvey-a845b137b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</div>
 
-<br><br>
+<br>
 
-**Thanks for visiting my profile.**
+<div align="center">
+
+### `Learning → Building → Experimenting → Improving`
+
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
