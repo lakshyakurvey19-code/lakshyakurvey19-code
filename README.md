@@ -1,101 +1,144 @@
-# Hi, I'm Lakshya 👋
+<div align="center">
 
-I'm a B.Tech Information Technology student at SSIPMT Raipur, currently in my 3rd semester. I'm focused on strengthening my programming fundamentals, learning new technologies, and building small hardware and software projects along the way.
+# Lakshya Kurvey
 
-## About Me
+### `B.Tech IT Student` · `Developer` · `Builder`
 
-- 🎓 B.Tech Information Technology student
-- 💻 Learning DSA and improving my skills in Python and C++
-- 🤖 Exploring AI/ML through practical projects
-- 🔧 Building IoT projects using ESP32 and sensors
-- 🌐 Learning web development with HTML, CSS, JavaScript, and Node.js
-- 🛠️ I enjoy understanding how things work from code to hardware
+Building things, learning technologies, and turning ideas into working projects.
+
+<p>
+  <a href="https://github.com/lakshyakurvey19-code">
+    <img src="https://img.shields.io/badge/GitHub-lakshyakurvey19--code-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/lakshya-kurvey-a845b137b">
+    <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Kurvey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:lakshyakurvey19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+</div>
+
+---
+
+## About
+
+I'm **Lakshya Kurvey**, a B.Tech Information Technology student interested in software development, web technologies, and practical problem solving.
+
+I like learning by building projects rather than only following tutorials. Currently, I'm working on strengthening my programming fundamentals while exploring web development, databases, and real-world applications.
+
+```text
+Focus        →  Programming • Web Development • Problem Solving
+Learning     →  C++ • Python • JavaScript • DBMS • DSA
+Building     →  Practical & Real-world Projects
+```
+
+---
 
 ## Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
 
-### Web Development
+### Web & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+</p>
 
-### Database
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-### AI/ML & IoT
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+---
 
 ## Featured Projects
 
-### 🔤 Smart Sign Language Translator Glove
-
-An ESP32-based glove that converts hand gestures into text. It uses flex sensors and an MPU6050 to track finger and hand movements. The recognized output can be displayed on an OLED display and transmitted wirelessly using Bluetooth.
-
-**Tech used:** ESP32 · Flex Sensors · MPU6050 · OLED · Bluetooth
-
-[View Repository](https://github.com/lakshyakurvey19-code)
-
----
+<table>
+<tr>
+<td width="50%">
 
 ### 🌱 Smart Farming Assistant
 
-An AI and IoT-based project focused on helping with crop disease detection, soil monitoring, irrigation needs, and agricultural risk monitoring.
+An AI-powered farming assistant designed to help identify crop diseases, pests, nutrient deficiencies and irrigation requirements.
 
-The project combines sensors and cameras for collecting field data with computer vision and machine learning for analysis.
+**Stack**
 
-**Tech used:** ESP32-CAM · Raspberry Pi · Sensors · Computer Vision · Machine Learning
+`ESP32-CAM` `Python` `OpenCV` `TensorFlow Lite`
 
-[View Repository](https://github.com/lakshyakurvey19-code)
+</td>
 
-## Currently Learning
+<td width="50%">
 
-- Python
-- C++
-- Data Structures and Algorithms
-- DBMS / SQL
-- AI/ML fundamentals
-- Web Development
-- IoT and Embedded Systems
+### 🖐️ Smart Sign Language Translator
 
-## GitHub Stats
+A wearable glove that uses flex sensors and motion sensing to recognize hand gestures and convert them into text.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
-</p>
+**Stack**
 
-## Connect With Me
+`ESP32` `C++` `MPU6050` `OLED` `Bluetooth`
 
-<p>
-  <a href="https://github.com/lakshyakurvey19-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:lakshyakurvey19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+## What I'm Working On
+
+```text
+01  Improving C++ & Object-Oriented Programming
+02  Learning Data Structures & Algorithms
+03  Exploring Web Development
+04  Learning Database Management Systems
+05  Building practical projects
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&hide_border=true" height="165">
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyakurvey19-code&hide_border=true">
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="mailto:lakshyakurvey19@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/lakshya-kurvey-a845b137b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+**Thanks for visiting my profile.**
+
+</div>
