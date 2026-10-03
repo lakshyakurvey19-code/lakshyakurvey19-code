@@ -1,131 +1,242 @@
 <div align="center">
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Lakshya%20Kurvey&fontSize=42&fontAlignY=38&animation=twinkling&desc=B.Tech%20IT%20Student%20%7C%20IoT%20Developer%20%7C%20AI/ML%20Explorer&descSize=18&descAlignY=62" width="100%"/>
 
-  <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Lakshya+Kurvey+%F0%9F%91%8B;B.Tech+IT+Student+%40+SSIPMT+Raipur;Building+smart+IoT+%26+Embedded+hardware;Exploring+AI%2FML+%26+Computer+Vision;Sharpening+DSA%2C+C%2B%2B%2C+and+Python+daily" alt="Typing SVG" />
-  </a>
+# 👋 Hey, I'm Lakshya Kurvey
 
-  <p align="center">
-    <a href="https://linkedin.com/in/lakshya-kurvey-a845b137b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:lakshyakurvey19@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=lakshyakurvey19-code&label=Profile%20Views&color=61afef&style=for-the-badge" alt="Profile Views" />
-  </p>
-</div>
+### `B.Tech IT Student` • `Developer` • `IoT Explorer` • `AI/ML Enthusiast`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+working+projects;Learning+DSA+%26+Software+Development;Exploring+AI%2FML+%26+IoT;Turning+curiosity+into+code+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 👨‍💻 About Me
-
-> *"Passionate about connecting the physical and digital worlds through code and microcontrollers."*
-
-- 🎓 **Undergrad**: 3rd Semester B.Tech in **Information Technology** at **SSIPMT Raipur**.
-- 🛠️ **Hardware & IoT**: Building real-world embedded prototypes using **ESP32**, **Arduino**, sensors, and wireless modules.
-- 🤖 **AI / ML & CV**: Exploring computer vision and machine learning for practical edge applications.
-- 💻 **Core Coding**: Honing problem-solving skills with **Data Structures & Algorithms** in **C++** and **Python**.
-- 🌐 **Web Development**: Learning modern full-stack development with **HTML/CSS**, **JavaScript**, and **Node.js**.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<div align="center">
-  <!-- Skill Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,nodejs,mysql,arduino,git,github,vscode&perline=6" alt="Tech Stack" />
-  </a>
-</div>
-
-<br/>
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Hardware & IoT** | ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) `Flex Sensors` `MPU6050` `Sensors & Actuators` |
-| **Web & Database** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools & Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔤 Smart Sign Language Glove</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Hardware-ESP32-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Protocol-Bluetooth-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sensors-MPU6050-orange?style=flat-square" />
-      </p>
-      <p>An assistive wearable glove that translates finger flexes and hand orientation into real-time text rendered on an OLED screen and transmitted via Bluetooth.</p>
-      <ul>
-        <li><b>Components:</b> ESP32, Flex Sensors, MPU6050 IMU, OLED</li>
-        <li><b>Features:</b> Real-time gesture recognition, low latency wireless output</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/lakshyakurvey19-code"><b>📂 Explore Repository »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌱 Smart Farming Assistant</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI-Computer_Vision-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/IoT-ESP32--CAM-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Edge-Raspberry_Pi-purple?style=flat-square" />
-      </p>
-      <p>An intelligent agri-tech solution integrating computer vision and IoT to automate crop disease diagnostics, soil telemetry, and precision irrigation management.</p>
-      <ul>
-        <li><b>Components:</b> ESP32-CAM, Raspberry Pi, Soil & Environmental Sensors</li>
-        <li><b>Features:</b> Leaf disease analysis, automated irrigation triggers</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/lakshyakurvey19-code"><b>📂 Explore Repository »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61afef&icon_color=61afef" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61afef" height="160" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyakurvey19-code&theme=tokyonight&hide_border=true&background=0d1117&ring=61afef&fire=61afef" alt="GitHub Streak" />
-</div>
-
----
-
-### 🤝 Let's Connect!
-
-<div align="center">
-  <p>I'm always open to discussing new tech, collaborating on IoT/ML projects, or networking with fellow developers!</p>
-
-  <a href="https://linkedin.com/in/lakshya-kurvey-a845b137b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:lakshyakurvey19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
+<p>
   <a href="https://github.com/lakshyakurvey19-code">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lakshyakurvey19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=lakshyakurvey19-code&style=flat-square&color=blue" alt="Profile views"/>
+
 </div>
 
-<br/>
+---
+
+## 🚀 About Me
+
+I'm a **B.Tech Information Technology student at SSIPMT Raipur**, currently in my **3rd semester**.
+
+I'm focused on building strong programming fundamentals while exploring **software development, AI/ML, IoT, and embedded systems**.
+
+I enjoy going beyond just writing code — I like understanding **how things actually work**, from algorithms and databases to sensors and hardware.
+
+```text
+🎓 B.Tech Information Technology
+💻 DSA • C++ • Python
+🌐 Web Development
+🤖 AI / ML
+🔌 IoT & Embedded Systems
+🗄️ DBMS & SQL
+🛠️ Building practical projects
+```
+
+---
+
+## 🧠 What I'm Currently Exploring
+
+| Area           | Focus                            |
+| -------------- | -------------------------------- |
+| 💻 Programming | C, C++, Python                   |
+| 🧩 DSA         | Data Structures & Algorithms     |
+| 🌐 Web         | HTML, CSS, JavaScript, Node.js   |
+| 🗄️ Database   | SQL, DBMS                        |
+| 🤖 AI/ML       | Machine Learning Fundamentals    |
+| 🔌 IoT         | ESP32, Sensors, Embedded Systems |
+| 🛠️ Tools      | Git, GitHub, VS Code             |
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+</p>
+
+### 🤖 AI / ML & IoT
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🔤 Smart Sign Language Translator Glove
+
+> **IoT • Embedded Systems • Assistive Technology**
+
+A wearable **ESP32-based sign language translator** designed to convert hand gestures into readable text.
+
+The glove uses **flex sensors** to detect finger movements and an **MPU6050** to capture hand orientation and motion.
+
+### ⚙️ Tech Used
+
+`ESP32` `Flex Sensors` `MPU6050` `OLED` `Bluetooth`
+
+### ✨ Key Features
+
+* 🤚 Gesture recognition using multiple flex sensors
+* 📐 Hand movement detection using MPU6050
+* 📺 Real-time output on OLED display
+* 📡 Wireless communication
+* 🔊 Designed for text-to-speech integration
+
+<a href="https://github.com/lakshyakurvey19-code">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🌱 Smart Farming Assistant
+
+> **AI • IoT • Computer Vision • Smart Agriculture**
+
+An AI + IoT based agricultural assistant designed to help identify **crop diseases, monitor soil conditions, detect irrigation requirements, and analyze agricultural risks**.
+
+### ⚙️ Tech Used
+
+`ESP32-CAM` `Raspberry Pi` `Sensors` `Computer Vision` `Machine Learning`
+
+### ✨ Key Features
+
+* 🌿 Crop disease detection
+* 💧 Soil and irrigation monitoring
+* 🌡️ Environmental monitoring
+* 📷 Camera-based field analysis
+* 🤖 AI-assisted agricultural insights
+
+<a href="https://github.com/lakshyakurvey19-code">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+# 📚 Currently Learning
+
+```text
+C++                    █████████░░░  DSA & OOP
+Python                 ████████░░░░  Programming
+Web Development        ███████░░░░░  HTML • CSS • JS • Node.js
+DBMS / SQL             ██████░░░░░░  Database Fundamentals
+AI / ML                █████░░░░░░░  Fundamentals
+IoT                    ███████░░░░░  ESP32 & Embedded Systems
+```
+
+> **Goal:** Build strong fundamentals first, then turn them into real-world projects.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lakshyakurvey19-code&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] 🧩 Strengthen DSA with C++
+* [ ] 🐍 Improve Python
+* [ ] 🌐 Build full-stack web projects
+* [ ] 🗄️ Master DBMS & SQL
+* [ ] 🤖 Learn AI/ML fundamentals
+* [ ] 🔌 Build more ESP32/IoT projects
+* [ ] 🚀 Participate in technical competitions
+* [ ] 📌 Build and publish more projects on GitHub
+
+---
+
+# 💡 My Development Philosophy
+
+<div align="center">
+
+### **Learn → Build → Break → Debug → Improve → Repeat**
+
+> *"Don't just learn how technology works. Build something with it."*
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in **technology, programming, AI/ML, IoT, cars, bikes, and interesting projects.**
+
+<p align="center">
+
+<a href="https://github.com/lakshyakurvey19-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lakshya.kurvey19@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you find something interesting in my repositories, feel free to explore!
+
+**Thanks for visiting my profile! 🚀**
+
 </div>
