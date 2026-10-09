@@ -2,19 +2,19 @@
 
 # 👋 Hey, I'm Lakshya Kurvey
 
-### `B.Tech IT Student` • `Developer` • `IoT Explorer` • `AI/ML Enthusiast`
+### `B.Tech IT Student` • `C++ & DSA Practitioner` • `Web Developer` • `IoT Explorer`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+working+projects;Learning+DSA+%26+Software+Development;Exploring+AI%2FML+%26+IoT;Turning+curiosity+into+code+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p>
+<p align="center">
   <a href="https://github.com/lakshyakurvey19-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lakshyakurvey19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -26,170 +26,142 @@
 
 ## 🚀 About Me
 
-I'm a **B.Tech Information Technology student at SSIPMT Raipur**, currently in my **3rd semester**.
+I am a **B.Tech Information Technology student at SSIPMT Raipur** (currently in my **3rd semester**).
 
-I'm focused on building strong programming fundamentals while exploring **software development, AI/ML, IoT, and embedded systems**.
-
-I enjoy going beyond just writing code — I like understanding **how things actually work**, from algorithms and databases to sensors and hardware.
+My primary focus is developing strong computer science fundamentals through **C++ and Data Structures & Algorithms**, building practical **front-end web interfaces**, and exploring **IoT hardware prototypes**. Rather than just collecting technologies, I prioritize understanding **how things work under the hood**—from memory pointers and time complexity to sensor telemetry and circuits.
 
 ```text
-🎓 B.Tech Information Technology
-💻 DSA • C++ • Python
-🌐 Web Development
-🤖 AI / ML
-🔌 IoT & Embedded Systems
-🗄️ DBMS & SQL
-🛠️ Building practical projects
+🎓 Education   : B.Tech in Information Technology @ SSIPMT Raipur (2024 - 2028)
+💻 Core Focus  : C++ • Data Structures & Algorithms • Object-Oriented Programming
+🌐 Development : HTML5 • CSS3 (Flexbox) • JavaScript • SQL / DBMS
+🔌 Exploration : IoT & Embedded Systems (ESP32 / Sensors) • AI/ML Fundamentals
+🛠️ Approach    : Solid fundamentals first, verified with working code
 ```
 
 ---
 
-## 🧠 What I'm Currently Exploring
+## 🛠️ Technical Stack & Focus Hierarchy
 
-| Area           | Focus                            |
-| -------------- | -------------------------------- |
-| 💻 Programming | C, C++, Python                   |
-| 🧩 DSA         | Data Structures & Algorithms     |
-| 🌐 Web         | HTML, CSS, JavaScript, Node.js   |
-| 🗄️ Database   | SQL, DBMS                        |
-| 🤖 AI/ML       | Machine Learning Fundamentals    |
-| 🔌 IoT         | ESP32, Sensors, Embedded Systems |
-| 🛠️ Tools      | Git, GitHub, VS Code             |
+To reflect genuine learning depth, my technical toolkit is organized into three tiers:
 
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
+### 1. 💻 Core (Daily Practice & Problem Solving)
+Technologies I use daily for logic building, coursework, and algorithmic problem-solving.
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" alt="Core Languages" />
 </p>
 
-### 🌐 Web Development
+- **Languages & Concepts**: C, C++, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+- **Strengths**: Arrays, Pointers, Bitwise operations, Linked lists, Classes & Inheritance
+
+### 2. 🌐 Development (Web & Databases)
+Technologies used for building responsive web pages, interactive scripts, and managing data.
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" alt="Development Stack" />
 </p>
 
-### 🤖 AI / ML & IoT
+- **Front-End & Scripting**: HTML5 (Semantic, Forms), CSS3 (Flexbox, Box Model), Vanilla JavaScript
+- **Databases & Back-End**: SQL, Relational DBMS concepts, Node.js *(Foundations)*
+
+### 3. 🔬 Exploration (Hardware & Applied Technology)
+Areas of curiosity where I experiment with prototypes and practical hardware integrations.
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow" />
-<img src="https://skillicons.dev/icons?i=python,opencv" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python" alt="Exploration" />
 </p>
 
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
+- **Embedded & IoT**: ESP32, Arduino, Flex Sensors, MPU6050 IMU, I2C/ADC protocols
+- **Applied Concepts**: Python fundamentals, OpenCV & AI/ML basics *(Early exploration)*
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Work & Repositories
 
-## 🔤 Smart Sign Language Translator Glove
+### 🧩 [DSA in C++](https://github.com/lakshyakurvey19-code/DSA-in-Cpp)
+> **Data Structures • Algorithms • Problem Solving in C++**
 
-> **IoT • Embedded Systems • Assistive Technology**
+A structured, progressive repository containing verified C++ implementations—from basic conditionals and patterns through binary number arithmetic, bitwise logic, array searching/sorting, pointers, and node data structures.
 
-A wearable **ESP32-based sign language translator** designed to convert hand gestures into readable text.
-
-The glove uses **flex sensors** to detect finger movements and an **MPU6050** to capture hand orientation and motion.
-
-### ⚙️ Tech Used
-
-`ESP32` `Flex Sensors` `MPU6050` `OLED` `Bluetooth`
-
-### ✨ Key Features
-
-* 🤚 Gesture recognition using multiple flex sensors
-* 📐 Hand movement detection using MPU6050
-* 📺 Real-time output on OLED display
-* 📡 Wireless communication
-* 🔊 Designed for text-to-speech integration
-
-<a href="https://github.com/lakshyakurvey19-code">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- **Status**: Active daily repository
+- **Key Areas**: Arrays, Two-pointer algorithms, Bitwise manipulations, Singly Linked Lists
+- **Link**: [`Explore DSA-in-Cpp ➔`](https://github.com/lakshyakurvey19-code/DSA-in-Cpp)
 
 ---
 
-## 🌱 Smart Farming Assistant
+### 💻 [C & C++ Programming Practice](https://github.com/lakshyakurvey19-code/cpp-programming-practice)
+> **Object-Oriented Programming • Stream File I/O • Academic Labs**
 
-> **AI • IoT • Computer Vision • Smart Agriculture**
+A comprehensive collection of C/C++ coursework exercises, Object-Oriented Programming architectures (classes, polymorphism, virtual base classes), file handling streams, and academic data structure implementations (Stack, Queue, Deque, Trees).
 
-An AI + IoT based agricultural assistant designed to help identify **crop diseases, monitor soil conditions, detect irrigation requirements, and analyze agricultural risks**.
-
-### ⚙️ Tech Used
-
-`ESP32-CAM` `Raspberry Pi` `Sensors` `Computer Vision` `Machine Learning`
-
-### ✨ Key Features
-
-* 🌿 Crop disease detection
-* 💧 Soil and irrigation monitoring
-* 🌡️ Environmental monitoring
-* 📷 Camera-based field analysis
-* 🤖 AI-assisted agricultural insights
-
-<a href="https://github.com/lakshyakurvey19-code">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- **Status**: Actively maintained coursework archive
+- **Key Areas**: Class inheritance, virtual functions, formatted file streams, lab implementations
+- **Link**: [`Explore cpp-programming-practice ➔`](https://github.com/lakshyakurvey19-code/cpp-programming-practice)
 
 ---
 
-# 📚 Currently Learning
+### 🌐 [HTML & CSS Practice Hub](https://github.com/lakshyakurvey19-code/HTML-and-CSS)
+> **Front-End Development • Semantic Markup • Responsive Layouts**
 
-```text
-C++                    █████████░░░  DSA & OOP
-Python                 ████████░░░░  Programming
-Web Development        ███████░░░░░  HTML • CSS • JS • Node.js
-DBMS / SQL             ██████░░░░░░  Database Fundamentals
-AI / ML                █████░░░░░░░  Fundamentals
-IoT                    ███████░░░░░  ESP32 & Embedded Systems
-```
+Foundational web development exercises showcasing semantic HTML5 document structures, advanced multi-section forms, CSS Box Model, Flexbox layouts, and mini web projects including an SSIPMT college portal landing page.
 
-> **Goal:** Build strong fundamentals first, then turn them into real-world projects.
+- **Status**: Completed foundational modules + ongoing styling exercises
+- **Key Areas**: Advanced forms, Flexbox centering, tables, multi-page mini portals
+- **Link**: [`Explore HTML-and-CSS ➔`](https://github.com/lakshyakurvey19-code/HTML-and-CSS)
 
 ---
 
-# 📊 GitHub Stats
+### 🔤 Smart Sign Language Translator Glove
+> **IoT • Embedded Systems • Assistive Hardware Prototype**
+
+A wearable assistive prototype powered by an **ESP32 Dual-Core microcontroller**, **5 flex sensors**, and an **MPU6050 6-axis IMU**. The glove samples continuous finger bend angles via ADC1 and hand orientation (pitch/roll) via I2C, running a rule-based gesture classification engine and serving telemetry over an onboard Wi-Fi SoftAP web server.
+
+- **Tech Stack**: `ESP32` `Flex Sensors` `MPU6050` `C++ / Arduino` `Wi-Fi AP Telemetry`
+- **Current Status**: `Hardware Prototype` · *Firmware and local telemetry dashboard tested; public repository release in progress.*
+
+---
+
+## 📚 Learning Roadmap & Current Stage
+
+| Area | Topic | Stage | Focus |
+| :--- | :--- | :--- | :--- |
+| **C++ & DSA** | Data Structures & Algorithms | `Comfortable` | Solving array, pointer, and linked list problems regularly |
+| **OOP in C++** | Object-Oriented Architecture | `Practicing` | Class inheritance, polymorphism, and virtual base classes |
+| **Web Dev** | HTML5, CSS3, JavaScript | `Practicing` | Responsive layouts, CSS Flexbox, and DOM scripting |
+| **DBMS** | SQL & Database Design | `Learning` | Relational schema design, normalization, and SQL queries |
+| **IoT / Hardware** | ESP32 & Sensor Interfacing | `Building` | Multi-sensor integration, ADC calibration, and wireless telemetry |
+| **AI / ML** | Machine Learning Fundamentals | `Exploring` | Understanding core concepts and simple Python workflows |
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+</div>
+
+<div align="center" style="margin-top: 15px;">
+
+<img src="https://streak-stats.demolab.com?user=lakshyakurvey19-code&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🎯 2026 Focus Goals
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lakshyakurvey19-code&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-* [ ] 🧩 Strengthen DSA with C++
-* [ ] 🐍 Improve Python
-* [ ] 🌐 Build full-stack web projects
-* [ ] 🗄️ Master DBMS & SQL
-* [ ] 🤖 Learn AI/ML fundamentals
-* [ ] 🔌 Build more ESP32/IoT projects
-* [ ] 🚀 Participate in technical competitions
-* [ ] 📌 Build and publish more projects on GitHub
+- [ ] 🧩 **Strengthen DSA**: Complete 100+ standard problems in C++ covering linked lists, stacks, queues, and binary trees.
+- [ ] 🌐 **Full-Stack Project**: Build and deploy a complete web application integrating HTML/CSS/JavaScript with a backend and SQL database.
+- [ ] 🗄️ **Master SQL/DBMS**: Deepen understanding of indexing, normalization, and complex join queries.
+- [ ] 🔌 **Open-Source Hardware**: Clean up, document, and publish the ESP32 Sign Language Translator glove firmware and schematic repository.
+- [ ] 🤖 **Applied ML**: Implement an end-to-end beginner computer vision or edge-ML model using Python.
 
 ---
 
-# 💡 My Development Philosophy
+## 💡 Development Philosophy
 
 <div align="center">
 
@@ -201,32 +173,26 @@ IoT                    ███████░░░░░  ESP32 & Embedded Sy
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-I'm always interested in **technology, programming, AI/ML, IoT, cars, bikes, and interesting projects.**
+I am always keen to discuss **programming, C++, DSA, web development, IoT hardware, and practical student projects.**
 
 <p align="center">
-
-<a href="https://github.com/lakshyakurvey19-code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:lakshya.kurvey19@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/lakshyakurvey19-code">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:lakshyakurvey19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
-
-### ⭐ If you find something interesting in my repositories, feel free to explore!
-
-**Thanks for visiting my profile! 🚀**
-
+  <sub>⭐ Thanks for visiting my profile! Feel free to explore my repositories.</sub>
 </div>
