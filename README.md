@@ -1,198 +1,76 @@
-<div align="center">
+# Lakshya Kurvey
 
-# 👋 Hey, I'm Lakshya Kurvey
-
-### `B.Tech IT Student` • `C++ & DSA Practitioner` • `Web Developer` • `IoT Explorer`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+working+projects;Learning+DSA+%26+Software+Development;Exploring+AI%2FML+%26+IoT;Turning+curiosity+into+code+%F0%9F%9A%80" alt="Typing SVG" />
-
-<p align="center">
-  <a href="https://github.com/lakshyakurvey19-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lakshyakurvey19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=lakshyakurvey19-code&style=flat-square&color=blue" alt="Profile views"/>
-
-</div>
+B.Tech Information Technology student at SSIPMT Raipur (2024–2028), specializing in C++, Data Structures & Algorithms, Front-End Web Development, and IoT Hardware Prototyping.
 
 ---
 
-## 🚀 About Me
+### Profile Overview
 
-I am a **B.Tech Information Technology student at SSIPMT Raipur** (currently in my **3rd semester**).
-
-My primary focus is developing strong computer science fundamentals through **C++ and Data Structures & Algorithms**, building practical **front-end web interfaces**, and exploring **IoT hardware prototypes**. Rather than just collecting technologies, I prioritize understanding **how things work under the hood**—from memory pointers and time complexity to sensor telemetry and circuits.
-
-```text
-🎓 Education   : B.Tech in Information Technology @ SSIPMT Raipur (2024 - 2028)
-💻 Core Focus  : C++ • Data Structures & Algorithms • Object-Oriented Programming
-🌐 Development : HTML5 • CSS3 (Flexbox) • JavaScript • SQL / DBMS
-🔌 Exploration : IoT & Embedded Systems (ESP32 / Sensors) • AI/ML Fundamentals
-🛠️ Approach    : Solid fundamentals first, verified with working code
-```
+| Attribute | Details |
+| :--- | :--- |
+| **Education** | B.Tech in Information Technology, SSIPMT Raipur (2024 – 2028) |
+| **Current Term** | 3rd Semester |
+| **Core Focus** | C++, Data Structures & Algorithms, Object-Oriented Programming |
+| **Development** | HTML5, CSS3 (Flexbox), JavaScript, SQL, Relational DBMS |
+| **Exploration** | IoT & Embedded Systems (ESP32, Sensors), AI/ML Fundamentals |
+| **Engineering Philosophy** | Solid fundamentals first, verified with working code |
 
 ---
 
-## 🛠️ Technical Stack & Focus Hierarchy
+### Technical Skills
 
-To reflect genuine learning depth, my technical toolkit is organized into three tiers:
-
-### 1. 💻 Core (Daily Practice & Problem Solving)
-Technologies I use daily for logic building, coursework, and algorithmic problem-solving.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp" alt="Core Languages" />
-</p>
-
-- **Languages & Concepts**: C, C++, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
-- **Strengths**: Arrays, Pointers, Bitwise operations, Linked lists, Classes & Inheritance
-
-### 2. 🌐 Development (Web & Databases)
-Technologies used for building responsive web pages, interactive scripts, and managing data.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" alt="Development Stack" />
-</p>
-
-- **Front-End & Scripting**: HTML5 (Semantic, Forms), CSS3 (Flexbox, Box Model), Vanilla JavaScript
-- **Databases & Back-End**: SQL, Relational DBMS concepts, Node.js *(Foundations)*
-
-### 3. 🔬 Exploration (Hardware & Applied Technology)
-Areas of curiosity where I experiment with prototypes and practical hardware integrations.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python" alt="Exploration" />
-</p>
-
-- **Embedded & IoT**: ESP32, Arduino, Flex Sensors, MPU6050 IMU, I2C/ADC protocols
-- **Applied Concepts**: Python fundamentals, OpenCV & AI/ML basics *(Early exploration)*
+| Domain | Technologies & Competencies |
+| :--- | :--- |
+| **Core Programming** | C, C++, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) |
+| **Core Concepts** | Pointers, Dynamic Memory, Bitwise Operations, Linked Lists, Inheritance, Polymorphism |
+| **Web Development** | HTML5, CSS3 (Flexbox, Responsive Design), Vanilla JavaScript |
+| **Databases & Back-End** | SQL, Relational DBMS, MySQL, Node.js (Foundations) |
+| **Embedded & IoT** | ESP32, Arduino, Raspberry Pi, Flex Sensors, MPU6050 IMU, ADC / I2C Protocols |
+| **Applied & Emerging** | Python Fundamentals, OpenCV, Machine Learning Basics |
+| **Developer Tools** | Git, GitHub, VS Code |
 
 ---
 
-## 🌟 Featured Work & Repositories
+### Featured Repositories & Projects
 
-### 🧩 [DSA in C++](https://github.com/lakshyakurvey19-code/DSA-in-Cpp)
-> **Data Structures • Algorithms • Problem Solving in C++**
-
-A structured, progressive repository containing verified C++ implementations—from basic conditionals and patterns through binary number arithmetic, bitwise logic, array searching/sorting, pointers, and node data structures.
-
-- **Status**: Active daily repository
-- **Key Areas**: Arrays, Two-pointer algorithms, Bitwise manipulations, Singly Linked Lists
-- **Link**: [`Explore DSA-in-Cpp ➔`](https://github.com/lakshyakurvey19-code/DSA-in-Cpp)
+| Project | Domain | Description | Technologies | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **DSA in C++** | Algorithms | Progressive implementations of core DSA, from bitwise arithmetic and binary math to linked lists and two-pointer algorithms. | C++, Algorithms, Data Structures | [Repository](https://github.com/lakshyakurvey19-code/DSA-in-Cpp) |
+| **C & C++ Practice** | Systems & OOP | Academic coursework and lab implementations covering OOP architectures, virtual functions, stream file I/O, and linear data structures. | C, C++, OOP, File Streams | [Repository](https://github.com/lakshyakurvey19-code/cpp-programming-practice) |
+| **HTML & CSS Hub** | Front-End | Structured web modules featuring semantic HTML5 markup, complex forms, CSS Box Model, Flexbox layouts, and landing pages. | HTML5, CSS3, Flexbox | [Repository](https://github.com/lakshyakurvey19-code/HTML-and-CSS) |
+| **Smart Sign Language Glove** | IoT & Embedded | Wearable assistive glove leveraging an ESP32, 5 flex sensors, and MPU6050 IMU to classify hand gestures and broadcast telemetry via Wi-Fi AP. | ESP32, Arduino, C++, Sensors, I2C | Prototype *(Release Pending)* |
 
 ---
 
-### 💻 [C & C++ Programming Practice](https://github.com/lakshyakurvey19-code/cpp-programming-practice)
-> **Object-Oriented Programming • Stream File I/O • Academic Labs**
+### Current Learning Roadmap
 
-A comprehensive collection of C/C++ coursework exercises, Object-Oriented Programming architectures (classes, polymorphism, virtual base classes), file handling streams, and academic data structure implementations (Stack, Queue, Deque, Trees).
-
-- **Status**: Actively maintained coursework archive
-- **Key Areas**: Class inheritance, virtual functions, formatted file streams, lab implementations
-- **Link**: [`Explore cpp-programming-practice ➔`](https://github.com/lakshyakurvey19-code/cpp-programming-practice)
-
----
-
-### 🌐 [HTML & CSS Practice Hub](https://github.com/lakshyakurvey19-code/HTML-and-CSS)
-> **Front-End Development • Semantic Markup • Responsive Layouts**
-
-Foundational web development exercises showcasing semantic HTML5 document structures, advanced multi-section forms, CSS Box Model, Flexbox layouts, and mini web projects including an SSIPMT college portal landing page.
-
-- **Status**: Completed foundational modules + ongoing styling exercises
-- **Key Areas**: Advanced forms, Flexbox centering, tables, multi-page mini portals
-- **Link**: [`Explore HTML-and-CSS ➔`](https://github.com/lakshyakurvey19-code/HTML-and-CSS)
-
----
-
-### 🔤 Smart Sign Language Translator Glove
-> **IoT • Embedded Systems • Assistive Hardware Prototype**
-
-A wearable assistive prototype powered by an **ESP32 Dual-Core microcontroller**, **5 flex sensors**, and an **MPU6050 6-axis IMU**. The glove samples continuous finger bend angles via ADC1 and hand orientation (pitch/roll) via I2C, running a rule-based gesture classification engine and serving telemetry over an onboard Wi-Fi SoftAP web server.
-
-- **Tech Stack**: `ESP32` `Flex Sensors` `MPU6050` `C++ / Arduino` `Wi-Fi AP Telemetry`
-- **Current Status**: `Hardware Prototype` · *Firmware and local telemetry dashboard tested; public repository release in progress.*
-
----
-
-## 📚 Learning Roadmap & Current Stage
-
-| Area | Topic | Stage | Focus |
+| Focus Area | Core Topic | Current Stage | Implementation Target |
 | :--- | :--- | :--- | :--- |
-| **C++ & DSA** | Data Structures & Algorithms | `Comfortable` | Solving array, pointer, and linked list problems regularly |
-| **OOP in C++** | Object-Oriented Architecture | `Practicing` | Class inheritance, polymorphism, and virtual base classes |
-| **Web Dev** | HTML5, CSS3, JavaScript | `Practicing` | Responsive layouts, CSS Flexbox, and DOM scripting |
-| **DBMS** | SQL & Database Design | `Learning` | Relational schema design, normalization, and SQL queries |
-| **IoT / Hardware** | ESP32 & Sensor Interfacing | `Building` | Multi-sensor integration, ADC calibration, and wireless telemetry |
-| **AI / ML** | Machine Learning Fundamentals | `Exploring` | Understanding core concepts and simple Python workflows |
+| **C++ & DSA** | Data Structures & Algorithms | Comfortable | Regular problem-solving covering arrays, pointers, and linked lists |
+| **OOP in C++** | Object-Oriented Design | Practicing | Inheritance hierarchies, polymorphism, and virtual base classes |
+| **Web Development** | HTML5, CSS3, JavaScript | Practicing | Responsive layouts, CSS Flexbox architecture, and DOM scripting |
+| **Database Systems** | SQL & Database Design | Learning | Relational schema modeling, normalization, and complex queries |
+| **IoT & Hardware** | ESP32 & Sensor Interfacing | Building | Multi-sensor integration, ADC calibration, and wireless telemetry |
+| **Machine Learning** | AI & ML Fundamentals | Exploring | Core algorithms and entry-level Python workflows |
 
 ---
 
-## 📊 GitHub Analytics
+### 2026 Goals
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lakshyakurvey19-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurvey19-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="Top Languages" />
-
-</div>
-
-<div align="center" style="margin-top: 15px;">
-
-<img src="https://streak-stats.demolab.com?user=lakshyakurvey19-code&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
-
-</div>
+| Target | Objective | Status |
+| :--- | :--- | :--- |
+| **DSA Mastery** | Solve 100+ standard problems in C++ spanning trees, stacks, queues, and linked lists | In Progress |
+| **Full-Stack Application** | Build and deploy a complete web app integrating front-end, back-end, and SQL database | In Progress |
+| **Relational Databases** | Master database indexing, normalization, and complex relational join queries | In Progress |
+| **Open-Source Hardware** | Document and publish the ESP32 Sign Language Translator glove firmware and schematics | In Progress |
+| **Applied ML** | Deploy a working computer vision or edge-ML pipeline using Python | Planned |
 
 ---
 
-## 🎯 2026 Focus Goals
+### Connect
 
-- [ ] 🧩 **Strengthen DSA**: Complete 100+ standard problems in C++ covering linked lists, stacks, queues, and binary trees.
-- [ ] 🌐 **Full-Stack Project**: Build and deploy a complete web application integrating HTML/CSS/JavaScript with a backend and SQL database.
-- [ ] 🗄️ **Master SQL/DBMS**: Deepen understanding of indexing, normalization, and complex join queries.
-- [ ] 🔌 **Open-Source Hardware**: Clean up, document, and publish the ESP32 Sign Language Translator glove firmware and schematic repository.
-- [ ] 🤖 **Applied ML**: Implement an end-to-end beginner computer vision or edge-ML model using Python.
-
----
-
-## 💡 Development Philosophy
-
-<div align="center">
-
-### **Learn → Build → Break → Debug → Improve → Repeat**
-
-> *"Don't just learn how technology works. Build something with it."*
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I am always keen to discuss **programming, C++, DSA, web development, IoT hardware, and practical student projects.**
-
-<p align="center">
-  <a href="https://github.com/lakshyakurvey19-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/lakshya-kurvey-a845b137b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:lakshyakurvey19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <sub>⭐ Thanks for visiting my profile! Feel free to explore my repositories.</sub>
-</div>
+| Channel | Destination |
+| :--- | :--- |
+| **GitHub** | [lakshyakurvey19-code](https://github.com/lakshyakurvey19-code) |
+| **LinkedIn** | [Lakshya Kurvey](https://linkedin.com/in/lakshya-kurvey-a845b137b) |
+| **Email** | [lakshyakurvey19@gmail.com](mailto:lakshyakurvey19@gmail.com) |
